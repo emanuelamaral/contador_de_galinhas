@@ -6,5 +6,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="filtros_e_manipulacao_de_video" />
+    <orderEntry type="module" module-name="menu_conversao_e_histograma" />
   </component>
 </module>
